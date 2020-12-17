@@ -1,7 +1,7 @@
-*Project Title**
+**Project Title**
 
 **Description**
 
-**Example
+**Example**
 
 **Notes**
