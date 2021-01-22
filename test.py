@@ -7,7 +7,11 @@ def secondfunction(i):
 class A: 
     nothing = None
     
-    def print_something():
+    def print_something(self):
         print("something")
 
-
+class B: 
+    nothing_again = None
+    
+    def print_something_more(self):
+        print("something else")
