@@ -4,9 +4,8 @@ def someotherfunction(i):
 def secondfunction(i):
     print("hello world")
 
-class A: 
-    nothing = None
-    
-    def print_something(self):
-        print("something")
+class AnotherClass(object):
+    def __init__(self):
+        self.first_item = "Hello world"
+
 
